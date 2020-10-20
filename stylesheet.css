@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color: #LightGray;
+  background-color: #26d0c9;
   color: #fff;
   height: 90px;
 }
@@ -82,7 +82,7 @@ input, textarea {
 }
 
 .footer {
-  background-color: #gray
+  background-color: #2f5167;
   color: #fff;
   height: 120px;
   padding: 40px;
